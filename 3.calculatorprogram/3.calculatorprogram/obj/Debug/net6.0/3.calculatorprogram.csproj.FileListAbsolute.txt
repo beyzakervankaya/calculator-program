@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\obj\Debug\net6.0\3.calculatorprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\obj\Debug\net6.0\3.calculatorprogram.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\obj\Debug\net6.0\3.calculatorprogram.AssemblyInfo.cs
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\obj\Debug\net6.0\3.calculatorprogram.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\bin\Debug\net6.0\3.calculatorprogram.exe
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\bin\Debug\net6.0\3.calculatorprogram.deps.json
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\bin\Debug\net6.0\3.calculatorprogram.runtimeconfig.json
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\bin\Debug\net6.0\3.calculatorprogram.dll
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\bin\Debug\net6.0\3.calculatorprogram.pdb
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\obj\Debug\net6.0\3.calculatorprogram.dll
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\obj\Debug\net6.0\refint\3.calculatorprogram.dll
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\obj\Debug\net6.0\3.calculatorprogram.pdb
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\obj\Debug\net6.0\3.calculatorprogram.genruntimeconfig.cache
+C:\Users\beyza\Desktop\nolur\3.calculatorprogram\3.calculatorprogram\obj\Debug\net6.0\ref\3.calculatorprogram.dll
